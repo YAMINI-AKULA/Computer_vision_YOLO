@@ -2,10 +2,10 @@
 
 Technologies Used
 
-	•	Python: Core language for implementation.
-	•	YOLOv8: State-of-the-art object detection model used for soccer ball detection.
-	•	Google Colab: For training, testing, and model refinement with GPU acceleration.
-	•	OpenCV: Employed for image and video processing, including detection and visualization.
+	-	Python: Core language for implementation.
+	-	YOLOv8: State-of-the-art object detection model used for soccer ball detection.
+	-	Google Colab: For training, testing, and model refinement with GPU acceleration.
+	-	OpenCV: Employed for image and video processing, including detection and visualization.
 
 Features
 
