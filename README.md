@@ -1,13 +1,11 @@
 ## This project utilizes the YOLOv8 model to accurately detect soccer balls in both images and videos. YOLOv8 is known for its high speed and precision, making it an excellent choice for real-time object detection tasks.
 
-#Technologies Used
+Technologies Used
         -       Python: Core language for implementation.
 	-	YOLOv8: State-of-the-art object detection model used for soccer ball detection.
 	-	Google Colab: For training, testing, and model refinement with GPU acceleration.
 	-	OpenCV: Employed for image and video processing, including detection and visualization.
 
-
-		
 
 Features
         •	YOLOv8 Architecture: Leveraged the latest advancements in YOLO architecture for superior detection performance.
@@ -16,7 +14,6 @@ Features
 	•	Real-Time Processing: Capable of detecting soccer balls in live video feeds and images with minimal latency.
 
 	
-
 Results
         •	High Accuracy: Achieved an IoU score of over 0.85, indicating strong overlap between predicted bounding 
                                boxes and the actual location of soccer balls in test images and videos.
