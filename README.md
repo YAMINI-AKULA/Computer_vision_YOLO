@@ -4,7 +4,7 @@ Access the hugging face from here
 
 ## Overview
 
-This computer vision project implements a real-time soccer ball detection system using the YOLOv8 object detection model. The application is built using the ultralytics YOLO library and deployed via a Streamlit web app hosted on Hugging Face Spaces. The model has been trained and fine-tuned to detect soccer balls in videos, leveraging a custom dataset and state-of-the-art deep learning techniques. The model performance has been evaluated using key metrics such as Intersection over Union (IoU) of .83 and object detection losses.
+This computer vision project implements a real-time soccer ball detection system using the YOLOv8 object detection model. The application is built using the ultralytics YOLO library and deployed via a Streamlit web app hosted on Hugging Face Spaces. The model has been trained and fine-tuned to detect soccer balls in videos, leveraging a custom dataset and state-of-the-art deep learning techniques. The Adam optimizer was employed to efficiently update the model weights during training, taking advantage of adaptive learning rates for each parameter.The model performance has been evaluated using key metrics such as Intersection over Union (IoU) of .83 and object detection losses.
 
 ## Technologies Used
 
@@ -19,6 +19,7 @@ This computer vision project implements a real-time soccer ball detection system
  ## Project Structure
  	•	app.py: The main application file that sets up the Streamlit app, handles video uploads, processes the video using the YOLO model, and displays the results
 	•	requirements.txt: Lists all Python dependencies required to run the project.
+ 
  ## How It Works
 
 	1.	Model Loading:
