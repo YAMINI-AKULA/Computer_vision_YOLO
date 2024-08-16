@@ -1,5 +1,10 @@
 # Soccer Ball Detection Using YOLOv8
-Access the hugging face from here
+Access the hugging face model from here
+
+Streamlit link to access the app
+
+
+
 
 
 ## Overview
