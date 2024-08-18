@@ -2,7 +2,7 @@
 
 [Try the app form the Streamlit link](https://computervisionyolo-bdmcgrin4aez77igpctmph.streamlit.app/)
 
-[Access the hugging face model from here](https://huggingface.co/spaces/Yaku03/YOLO_SOCCER_BALL_DETECTION)
+[Access the hugging face space from here](https://huggingface.co/spaces/Yaku03/YOLO_SOCCER_BALL_DETECTION)
 
 ## Demo
 
