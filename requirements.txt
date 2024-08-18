@@ -3,3 +3,4 @@ streamlit
 opencv-python-headless
 tqdm
 python-dotenv
+huggingface-hub
