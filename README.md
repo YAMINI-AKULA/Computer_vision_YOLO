@@ -1,9 +1,12 @@
-# Soccer Ball Detection Using YOLOv8
-Access the hugging face model from here
-[Hugging face space link ](https://huggingface.co/spaces/Yaku03/YOLO_SOCCER_BALL_DETECTION)
+# Soccer Ball Detection Using YOLOv8 computer vision project
 
-### Demo
-![image](https://github.com/user-attachments/assets/876ef970-d0dd-4996-9e0f-f8e44efec01f)
+[Try the app form the Streamlit link](https://computervisionyolo-bdmcgrin4aez77igpctmph.streamlit.app/)
+
+[Access the hugging face model from here](https://huggingface.co/spaces/Yaku03/YOLO_SOCCER_BALL_DETECTION)
+
+## Demo
+
+
 ## Overview
 
 This computer vision project implements a real-time soccer ball detection system using the YOLOv8 object detection model. The application is built using the ultralytics YOLO library and deployed via a Streamlit web app hosted on Hugging Face Spaces. The model has been trained and fine-tuned to detect soccer balls in videos, leveraging a custom dataset and state-of-the-art deep learning techniques. The Adam optimizer was employed to efficiently update the model weights during training, taking advantage of adaptive learning rates for each parameter.The model performance has been evaluated using key metrics such as Intersection over Union (IoU) of .83 and object detection losses.
